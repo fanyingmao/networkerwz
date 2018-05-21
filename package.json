@@ -1,0 +1,11 @@
+{
+  "name": "networkerwz",
+  "version": "1.0.0",
+  "description": "开发管理后台前端",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fym",
+  "license": "ISC"
+}
